@@ -1,0 +1,29 @@
+font-family: "Lato", sans-serif;
+
+* {
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #274471;
+  font-family: "lato", sans-serif;
+}
+
+.container {
+  width: 400px;
+  background-color: rgb(243, 243, 243);
+  border-radius: 6px;
+  margin: 30px 0;
+}
+
+.contactForm {
+  padding: 25px;
+}
+
+input {
+  width: 100%;
+  padding: 10px 16px;
+  margin: 8px 0;
+  border-radius: 10px;
+}
