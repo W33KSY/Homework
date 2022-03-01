@@ -14,7 +14,7 @@ body {
   align-items: center;
   background-color: rgb(243, 243, 243);
   border-radius: 6px;
-  margin: 30px;
+  margin: 30px auto;
   padding: 5px;
 }
 
@@ -38,6 +38,7 @@ textarea {
   padding: 10px 16px;
   border-radius: 5px;
   resize: none;
+  font-size: 14px;
 }
 
 #submit-button {
