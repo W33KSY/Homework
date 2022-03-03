@@ -73,15 +73,12 @@ nav a {
   /* 1. Make the split-nav display flex.
 2. Give it a margin right and left of -10 */
   display: flex;
-  margin-left: -10;
-  margin-right: -10;
+  margin: 0 -10;
 }
 
 .split-nav li {
   /* Give the list item a margin right and left of 10 */
-  display: flex;
-  margin-left: 10;
-  margin-right: 10;
+  margin: 0 10;
 }
 
 .split-nav .push-right {
